@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a simple implementation of a Telegram bot using Python. 
+This repository contains a simple implementation of a Telegram bots using Python. 
 
 ## Prerequisites
 
